@@ -73,7 +73,8 @@ Each service is independently deployable and manages a distinct domain in the e-
 | **Docker**          | Containerization of services for isolation and consistency |
 | **Docker Compose**  | Orchestration of multi-container Docker environments |
 
-🎨 Frontend - React Application
+
+## Frontend - React Application
 The frontend for this e-commerce platform is developed using React and provides a seamless and responsive user experience.
 
 🔑 Features
